@@ -97,15 +97,10 @@ Before running this project, ensure you have the following:
 - Improve accessibility (ARIA attributes, keyboard navigation)  
 - Optimize CSS and JS for performance  
 
----
-
-## 📄 License
-This project is licensed under the [MIT License](./LICENSE).  
-You are free to use, modify, and distribute this project for educational or personal use.
 
 ---
 
 ## 👤 Author
-**Name:** diasekar77-sketch  
+**Name:** Divya K S 
 **GitHub:** [github.com/diasekar77-sketch](https://github.com/diasekar77-sketch)  
 **Repository:** [FLAM-Assessment_Frontend-Assignment-](https://github.com/diasekar77-sketch/FLAM-Assessment_Frontend-Assignment-.git)
